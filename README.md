@@ -8,7 +8,7 @@ This is a Scratch texture editor. It is not practical.
 
 ## Basic drawing tools
 - You can use RGB slider to control pen color.
-- You can tweak pen size to change pen size.
+- You can tweak pen size.
 - You can explore more drawing tools~
 - You can also save or load your texture~
 
