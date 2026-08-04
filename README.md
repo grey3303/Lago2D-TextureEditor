@@ -3,12 +3,12 @@ This is a Scratch texture editor. It is not practical.
 
 ## Welcome to Lago2D Texture Editor
 - You can create textures.
-- You can manager and edit textures.
+- You can manage and edit textures.
 - You can create and edit more frames.
 
 ## Basic drawing tools
 - You can use RGB slider to control pen color.
-- You can adjust pen size to change pen size.
+- You can tweak pen size to change pen size.
 - You can explore more drawing tools~
 - You can also save or load your texture~
 
