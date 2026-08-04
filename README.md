@@ -1,5 +1,5 @@
 # Lago2D-TextureEditor
-This is a Scratch texture editor. It is not practical.
+This is a Scratch texture editor.
 
 ## Welcome to Lago2D Texture Editor
 - You can create textures.
