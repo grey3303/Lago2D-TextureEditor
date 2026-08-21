@@ -13,3 +13,5 @@ This is a Scratch texture editor.
 - You can also save or load your texture~
 
 ##### Project in Development
+##### The update log will be enabled in the official version of Lago62
+
